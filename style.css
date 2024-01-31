@@ -1,0 +1,61 @@
+body {
+    background: rgba(106, 223, 120, 0.865);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    color: red;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 15px 0;
+}
+
+.descrp-title {
+    margin-bottom: 12px;
+}
+
+.descrp {
+    margin-bottom: 20px;
+}
+
+.another-color {
+    color: rgb(0, 141, 188);
+}
+
+.link-name {
+    text-decoration: underline;
+    color: rgb(9, 96, 125);
+}
+
+.descrp-text-second {
+    margin-bottom: 15px;
+}
+
+.anth-color {
+    color: lightgreen;
+}
+
+.title-item {
+    color: purple;
+}
+
+.img {
+    width: 330px;
+    height: 226px;
+}
+
+.text-any-variants {
+    margin-top: 20px;
+}
+
+.title-second {
+    margin-top: 20px;
+}
